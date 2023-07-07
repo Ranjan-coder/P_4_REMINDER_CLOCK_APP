@@ -1,6 +1,4 @@
 body{
-    /* margin: 0px;
-    padding: 0px; */
     background-color: rgba(61, 8, 123, 1);
 
 }
@@ -12,7 +10,7 @@ body{
     grid-template-rows: 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px;
     row-gap: 5px;
     column-gap: 5px;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
 }
 #child_container_1_1{
@@ -201,7 +199,6 @@ h1{
 
     #parent_container{
         display: grid;
-        /* width: 100vw; */
         grid-template-columns: auto;
         grid-template-rows: 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px;
         align-items: center;
@@ -233,7 +230,6 @@ h1{
 
     #parent_container{
         display: grid;
-        /* width: 100vw; */
         grid-template-columns: auto;
         grid-template-rows: 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px 25px;
         align-items: center;

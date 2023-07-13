@@ -195,7 +195,7 @@ h1{
 }
 
 
-@media only screen and (max-width:600px) and (min-width: 400px) {
+@media only screen and (max-width:600px) and (min-width: 370px) {
 
     #parent_container{
         display: grid;

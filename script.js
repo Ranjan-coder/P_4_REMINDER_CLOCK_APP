@@ -1,4 +1,4 @@
-let Msg=document.getElementById("child_container_3");
+let Msg=document.getElementById("child_container_6");
 let assignTime = document.getElementsByTagName("h1")
 function clockstart(){
     let AMPM = "";
@@ -43,7 +43,7 @@ setInterval(()=>{
 },1000);
 
 let inputValue = document.querySelectorAll('select');
-let text = document.getElementById('child_container_6');
+let text = document.getElementById('child_container_3');
 let imgShow = document.getElementById('child_container_5_1');
 
 function callFunction() {
